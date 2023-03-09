@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Grayson Osborne. I am a 1st Lieutenant in the United States Army and a member of the 3rd cohort of the [AI Scholars Program](https://www.army.mil/article/237258/artificial_intelligence_task_force_welcomes_inaugural_class_of_ai_scholars). I am currently pursuing a Master's Degree in Information Systems Management - Business Intelligence and Data Analytics from [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu) at [Carnegie Mellon University](https://cmu.edu).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+After completing my coursework I will work at the [United State's Army's Artificial Intelligence Integration Center (AI2C)](https://cftste.experience.crmforce.mil/ai2c/s/who-we-are). I am obligated to service until approximately May 2030.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Previously, I graduated from the United States Military Academy at West Point in May 2019 as a Field Artillery Officer. After completing my initial officer training at Fort Sill, Oklahoma I served in multiple leadership positions in the 2d Cavalry Regiment headquartered in Vilseck, Germany from February 2020 to May 2022.
 
+Download my resume [here][1].
 
-[jekyll-organization]: https://github.com/jekyll
+[1]:{{site.url}}/downloads/Grayson_Osborne_Resume.pdf
