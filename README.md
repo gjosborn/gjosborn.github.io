@@ -1,5 +1,5 @@
 # Grayson's Github Pages Site README
-## A Portfolio for programming and data analytics related projects that I am interested in.
+## A Portfolio for my programming and data analytics related projects
 
 This is the repository for my github pages site. You can visit the live site [here](https://www.gjosborn.github.io).
 
