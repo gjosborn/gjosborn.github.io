@@ -1,4 +1,6 @@
-#Grayson's Github Site README
-## The Portfolio for all of my programming projects and related activities
+# Grayson's Github Pages Site README
+## A Portfolio for my programming and data analytics related projects
 
-See above. This is currently a work in progress. As my GitHub portfolio expands I intend to add posts about current interests and project progression.
+This is the repository for my github pages site. You can visit the live site [here](https://gjosborn.github.io).
+
+My github pages site has an about me section, personal projects I am working on, as well as project ideas I will work on in the future.
