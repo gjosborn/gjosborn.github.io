@@ -10,7 +10,7 @@ Check out the GitHub Repository [here](https://github.com/gjosborn/RedLegSafety)
 
 *A Django webapp that completes the basic functions of manual gunnery*
 
-### Below is a copy of the current README for RedLegSafety
+#### Below is a copy of the current README for RedLegSafety
 One of the most formative experiences of a youn artilleryman's career is completing the manual gunnery
 unit during Field Artillery Basic Officer Leader's Course. This unit culminates in the dreaded "safety test"
 This test measures whether you have a deep enough understanding of the math and physics of artillery to safely
@@ -36,6 +36,12 @@ As part of Red Leg Safety, I need a way to create a database of the data in the 
 
 As a solution to the database creation task, I am also working on TFT_Parse. This repository utilizes the Camelot package to scan the tables from the PDFs. I am currently refining this and attempting to generalize the code to make it easier to add tables of any type from PDF to this or any database in the future.
 
-### Below is a copy of the current README for TFT_Parse
+#### Below is a copy of the current README for TFT_Parse
+
+*Parsing the tables from a Tabular Firing Table (TFT) to add to a SQLite database*
+
+The tabular firing table is the base for all manual field artillery calculations. They are published by The U.S. Army Armament Research, Development and Engineering Center (ARDEC) and are available to those in the artillery community. Since they contain all the technical firing data of current US howitzers, they are not available publicly.
+
+This parser parses the tables of technical data from this PDF and organizes it so it can be used to populate a SQLite Database in a Django webapp
 
 Check out the GitHub Repository for TFT_Parse [here](https://github.com/gjosborn/TFT_Parse)
