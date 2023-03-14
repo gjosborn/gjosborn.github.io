@@ -4,4 +4,4 @@ title: Project Ideas
 permalink: /projectideas/
 ---
 
-#Here is a test of the project ideas page
+### Check back later for the updated list of project ideas.
