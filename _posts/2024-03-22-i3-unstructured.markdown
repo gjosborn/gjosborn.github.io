@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Check Out Projects"
-date:   2023-03-07 23:54:36 -0500
+title:  Unstructured.io - Make Your Data LLM Ready
+date:   2024-03-24 16:11:36 -0500
 categories: project
 ---
 
-# Unstructured.io - Make Your Data LLM Ready
+
 ## Machine Learning in Production - Individual Assignment 3 - MLOps Tools
 ### Grayson Osborne
 
