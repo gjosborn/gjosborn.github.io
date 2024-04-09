@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Energy Usage Dash App"
-date:   2024-04-08 18:55:00 -0500
+title:  Energy Usage Dash App
+date:   2024-04-07 18:55:00 -0500
 categories: project
 ---
 
